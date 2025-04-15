@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela</title>
+</head>
+
+<body>
+    <table border="Solid Black" align="Center">
+        <caption border="Black">Agenda de Estudos</caption>
+        <col style="background-color: #f2f2f2">
+        <col style="background-color: #FCD708">
+        <col style="background-color: #E85246">
+        <col style="background-color: #6FE846">
+        <col style="background-color: #E8C046">
+        <col style="background-color: Pink">
+        <thead>
+            <tr>
+                <th style="color: white; background-color: black;">Horário</th>
+                <th style="color: white; background-color: black;">Segunda</th>
+                <th style="color: white; background-color: black;">Terça</th>
+                <Th style="color: white; background-color: black;">Quarta</Th>
+                <th style="color: white; background-color: black;">Quinta</th>
+                <Th style="color: white; background-color: black;">Sexta</Th>
+            </tr>
+        </thead>
+            <tbody>
+            <tr>
+                <td>19:00 - 19:45</td>
+                <td>SUP.13697 (CBTDWEB)</td>
+                <td>SUP.13698 (CBTPRES)</td>
+                <td>SUP.13692 (CBTFMAT)</td>
+                <td>SUP.13693 (CBTHCTC)</td>
+                <td>SUP.13695 (CBTAPRG)</td>
+            </tr>
+
+            <tr>
+                <td>19:45 - 20:30</td>
+                <td>SUP.13697 (CBTDWEB)</td>
+                <td>SUP.13698 (CBTPRES)</td>
+                <td>SUP.13692 (CBTFMAT)</td>
+                <td>SUP.13693 (CBTHCTC)</td>
+                <td>SUP.13695 (CBTAPRG)</td>
+            </tr>
+
+            <tr>
+                <td>20:30 - 21:15</td>
+                <td>SUP.13697 (CBTDWEB)</td>
+                <td>SUP.13698 (CBTPRES)</td>
+                <td>SUP.13692 (CBTFMAT)</td>
+                <td>SUP.13694 (CBTITIN)</td>
+                <td>SUP.13694 (CBTITIN)</td>
+            </tr>
+
+            <tr>
+                <td>21:30 - 22:15</td>
+                <td>SUP.13697 (CBTDWEB)</td>
+                <td>SUP.13698 (CBTPRES)</td>
+                <td>SUP.13696 (CBTARQC)</td>
+                <td>SUP.13691 (CBTCEEX)</td>
+                <td>SUP.13695 (CBTAPRG)</td>
+            </tr>
+
+            <tr>
+                <td>22:15 - 23:00</td>
+                <td align="center">-</td>
+                <td>SUP.13692 (CBTFMAT)</td>
+                <td>SUP.13696 (CBTARQC)</td>
+                <td>SUP.13691 (CBTCEEX)</td>
+                <td>SUP.13695 (CBTAPRG)</td>
+            </tr>
+            <tr>
+            </tbody>
+
+    <Tfoot>
+       <tr>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td> 
+            <td align="center">-</td> 
+        </tr>
+    </Tfoot>
+    </table>
+</body>
+
+</html>
